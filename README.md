@@ -165,23 +165,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Inspired by real-world housing market analysis needs
-- Built during SkillCraft ML internship program
-- Thanks to the open-source community for amazing data science libraries
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/housing-price-prediction](https://github.com/yourusername/housing-price-prediction)
-
-## 📊 Project Statistics
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/housing-price-prediction&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
----
 
 ⭐ **Star this repo if you found it useful!**
 
